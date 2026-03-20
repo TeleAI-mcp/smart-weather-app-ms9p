@@ -1,2 +1,3 @@
-# smart-weather-app-ms9p
-A weather forecasting application for modern development workflows
+# Smart Weather App Ms9P
+
+A weather forecasting application for modern development workflows.
